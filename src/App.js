@@ -31,8 +31,9 @@ function App() {
       <Portfolio />
      
       <Contact />
-      <Footer />
+     
     </div>
+    <Footer />
     </div>
   );
 }

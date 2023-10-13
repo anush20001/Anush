@@ -9,9 +9,10 @@
   align-items: center;
   /* background-color: #b8f6f6; */
   justify-content: center;
-  background-color: #fbffff;
- 
- 
+  /* background-color: #fbffff; */
+  background-color: rgb(238 210 255);
+ padding-top: 1rem;
+ padding-bottom: 1rem;
   border: none;
 }
 
